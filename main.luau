@@ -16,13 +16,13 @@ local function GojoSatoru(character)
     end
 
     local shirt = CreateObject('18445998223')
-    shirt.Parent = game.Players.LocalPlayer.Character
+    shirt.Parent = character
 
     local pants = CreateObject('14866835948')
-    pants.Parent = game.Players.LocalPlayer.Character
+    pants.Parent = character
 
     local head = CreateObject('131649388019728')
-    head.Parent = game.Players.LocalPlayer.Character
+    head.Parent = character
 
     local weld = Instance.new("Weld")
     weld.Parent = head
@@ -46,13 +46,13 @@ local function Goku(character)
     end
 
     local shirt = CreateObject('6911298876')
-    shirt.Parent = game.Players.LocalPlayer.Character
+    shirt.Parent = character
 
     local pants = CreateObject('8176110883')
-    pants.Parent = game.Players.LocalPlayer.Character
+    pants.Parent = character
 
     local head = CreateObject('18404336229')
-    head.Parent = game.Players.LocalPlayer.Character
+    head.Parent = character
 
     local weld = Instance.new("Weld")
     weld.Parent = head
@@ -75,13 +75,13 @@ local function Aizen(character)
     end
 
     local shirt = CreateObject('4807724086')
-    shirt.Parent = game.Players.LocalPlayer.Character
+    shirt.Parent = character
 
     local pants = CreateObject('4807816474')
-    pants.Parent = game.Players.LocalPlayer.Character
+    pants.Parent = character
 
     local head = CreateObject('83918547732474')
-    head.Parent = game.Players.LocalPlayer.Character
+    head.Parent = character
 
     local weld = Instance.new("Weld")
     weld.Parent = head
